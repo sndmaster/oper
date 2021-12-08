@@ -5,7 +5,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunkl
 https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8
 #EXTINF:0 tvg-ID="13" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/13.png?raw=true" group-title="TV",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
-#EXTINF:0 tvg-ID="20" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/20.png?raw=true" group-title="TV",עכשיו 14
+#EXTINF:0 tvg-ID="20" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/14.png?raw=true" group-title="TV",עכשיו 14
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
 #EXTINF:0 tvg-ID="21" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/21.jpg?raw=true" group-title="TV",ערוץ הקניות 21
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
