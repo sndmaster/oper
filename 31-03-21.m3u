@@ -6,12 +6,12 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/hdntl=exp=165
 #EXTINF:0 tvg-ID="13" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/13.png?raw=true" group-title="TV",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:0 tvg-ID="20" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/14.png?raw=true" group-title="TV",עכשיו 14
-https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
+https://dvr.ch20-cdnwiz.com/hls/live_720/index.m3u8
 #EXTINF:0 tvg-ID="21" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/21.jpg?raw=true" group-title="TV",ערוץ הקניות 21
-http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+https://shoppingil-rewriter.vidnt.com/video_480p_1000008812.m3u8
 #EXTINF:0 tvg-ID="23" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/23tv.jpg?raw=true" group-title="TV",כאן חינוכית 23
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+https://stream-11.ix7.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUMzsXS3jhHtJzaMUeSd5-iU2dboKg2B4LTpuO0e0ytaf)/dm/3/x7ymw7f/d/live-4.m3u8
 #EXTINF:0 tvg-ID="24" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/24telad.png?raw=true" group-title="TV",ערוץ 24 החדש
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/hdntl=exp=1653858744~acl=%2f*~data=hdntl~hmac=5efcc09b8d67d40a268fb5a25429682a9d978985d46288942f42a261f3ce04dd/index_2200.m3u8
 #EXTINF:0 tvg-ID="97" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/hidabroot.jpg?raw=true" group-title="TV",הידברות 97
-https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+https://stream5.shidur.net/htvlive2/_definst_/smil:live2hd.smil/chunklist_b2248000.m3u8
