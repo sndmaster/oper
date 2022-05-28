@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-ID="11" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/kan.jpg?raw=true" group-title="TV",כאן 11
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+https://stream-07.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9w0eMPJHA4_bFz__osD5zD__j67eQxwLlka-UJDlvE-)/dm/3/x7wjmog/s/live-4.m3u8
 #EXTINF:0 tvg-ID="12" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/keshet.jpg?raw=true" group-title="TV",קשת 12
-https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/1/hdntl=exp=1653854441~acl=%2f*~data=hdntl~hmac=d712709a908449c3d9ec0f42a99a341034125ae6bec61bd03f05c30773988ed8/profileManifest.m3u8?_uid=2a9ef82e-ed52-4110-8d7e-eab74ef937c7
 #EXTINF:0 tvg-ID="13" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/13.png?raw=true" group-title="TV",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:0 tvg-ID="20" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/14.png?raw=true" group-title="TV",עכשיו 14
