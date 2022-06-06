@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-ID="11" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/kan.jpg?raw=true" group-title="TV",כאן 11
-https://stream-07.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9w0eMPJHA4_bFz__osD5zD__j67eQxwLlka-UJDlvE-)/dm/3/x7wjmog/s/live-4.m3u8
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-ID="12" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/keshet.jpg?raw=true" group-title="TV",קשת 12
 https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/hdntl=exp=1653854958~acl=%2f*~data=hdntl~hmac=b8bd09fceb9a53172737920e02f7ecd85cbc28e376e65b31d5f6c74b0a045c9d/index_2200.m3u8
 #EXTINF:0 tvg-ID="13" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/13new.png?raw=true" group-title="TV",רשת 13
@@ -10,7 +10,7 @@ https://dvr.ch20-cdnwiz.com/hls/live_720/index.m3u8
 #EXTINF:0 tvg-ID="21" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/21.jpg?raw=true" group-title="TV",ערוץ הקניות 21
 https://shoppingil-rewriter.vidnt.com/video_480p_1000008812.m3u8
 #EXTINF:0 tvg-ID="23" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/23tv.jpg?raw=true" group-title="TV",כאן חינוכית 23
-https://stream-11.ix7.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUMzsXS3jhHtJzaMUeSd5-iU2dboKg2B4LTpuO0e0ytaf)/dm/3/x7ymw7f/d/live-4.m3u8
+https://stream-07.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUCgjxVG1DI9Tvfe_NSVESM2JJ8FLRyuZk6ersKp0jIcY)/dm/3/x7ymw7f/d/live-4.m3u8
 #EXTINF:0 tvg-ID="24" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/24telad.png?raw=true" group-title="TV",ערוץ 24 החדש
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/hdntl=exp=1653858744~acl=%2f*~data=hdntl~hmac=5efcc09b8d67d40a268fb5a25429682a9d978985d46288942f42a261f3ce04dd/index_2200.m3u8
 #EXTINF:0 tvg-ID="97" tvg-logo="https://github.com/sndmaster/oper/blob/main/resources/images/hidabroot.jpg?raw=true" group-title="TV",הידברות 97
